@@ -1,6 +1,6 @@
 # 🔐 LAMP Stack Login Page
 
-A simple and secure login system built using the **LAMP stack** (Linux, Apache, MySQL, PHP). This project demonstrates how to build a basic user authentication system with registration, login, logout, and session management.
+A simple and secure login system built using the **LAMP stack** (Linux, Apache, MySQL, PHP). This project demonstrates how to build a basic user authentication system with registration, login, logout, and session management
 
 ---
 
